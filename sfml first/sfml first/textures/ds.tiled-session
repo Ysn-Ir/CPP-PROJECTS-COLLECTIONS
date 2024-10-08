@@ -1,0 +1,39 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "mario-1-1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "marwal.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mrw.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/ouali/source/repos/sfml first/sfml first/textures",
+    "map.height": 10,
+    "openFiles": [
+    ],
+    "project": "ds.tiled-project",
+    "recentFiles": [
+        "marwal.tsx",
+        "mrw.tsx",
+        "mario-1-1.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 40,
+        "width": 32
+    }
+}

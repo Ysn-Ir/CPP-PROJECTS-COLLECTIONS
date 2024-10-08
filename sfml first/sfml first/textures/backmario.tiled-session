@@ -1,0 +1,68 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "#fire": {
+            "scaleInDock": 1
+        },
+        "back.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 717.3333333333333,
+                "y": 322
+            }
+        },
+        "map2.tmx": {
+            "scale": 0.11648809523809522,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 317.62902401635165,
+                "y": 403.474706182933
+            }
+        },
+        "map2.tmx#fire": {
+            "scaleInDock": 1
+        },
+        "mario-1-1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "marwal.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mrw.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/ouali/source/repos/sfml first/sfml first/textures",
+    "last.imagePath": "C:/Users/ouali/source/repos/sfml first/sfml first/textures",
+    "map.height": 27,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.width": 105,
+    "openFiles": [
+        "back.tmx",
+        "map2.tmx",
+        "marwal.tsx",
+        "mrw.tsx",
+        "mario-1-1.tsx"
+    ],
+    "project": "backmario.tiled-project",
+    "recentFiles": [
+        "back.tmx",
+        "mario-1-1.tsx",
+        "mrw.tsx",
+        "marwal.tsx",
+        "map2.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx"
+}
